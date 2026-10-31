@@ -1,0 +1,879 @@
+[
+  {
+    "timestamp": 1785341817.9335415,
+    "direction": "UP",
+    "confidence": 69.8,
+    "grade": "B",
+    "prob_up": 0.73,
+    "prob_down": 0.0,
+    "prob_no_trade": 0.27,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bullish)",
+      "Strong momentum",
+      "Structure: CHOCH Bullish",
+      "Consensus: Bullish (+0.47)",
+      "Immediate: Bullish",
+      "Confluence: 7/10 voters agree"
+    ],
+    "risk_flags": [
+      "Stale trend (50%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 0%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-6) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.648,
+      "momentum_quality": 0.735,
+      "candle_strength": 0.003,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.798,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.697,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 7,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.55",
+      "Structure: CHOCH Bullish",
+      "Candle Pressure: Bullish (+0.50)",
+      "Pattern: Hammer (90%)",
+      "S/R: Bullish Breakout",
+      "Immediate: Bullish (+1.00)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785341878.1398218,
+    "direction": "UP",
+    "confidence": 71.4,
+    "grade": "B",
+    "prob_up": 0.685,
+    "prob_down": 0.054,
+    "prob_no_trade": 0.261,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bullish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.29)",
+      "Immediate: Bullish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Momentum exhaustion",
+      "Stale trend (52%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 8%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-1) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.35,
+      "trend_alignment": 0.647,
+      "momentum_quality": 0.716,
+      "candle_strength": 0.08,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.786,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.7,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 0.545
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.69",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.58)",
+      "Pattern: Hammer (82%)",
+      "Immediate: Bullish (+0.42)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342117.9716508,
+    "direction": "UP",
+    "confidence": 75.3,
+    "grade": "A",
+    "prob_up": 0.694,
+    "prob_down": 0.017,
+    "prob_no_trade": 0.289,
+    "reasons": [
+      "Shooting Star (DOWN)"
+    ],
+    "entry_factors": [
+      "Trend: Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bullish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.95)",
+      "Immediate: Bullish",
+      "Confluence: 7/10 voters agree"
+    ],
+    "risk_flags": [
+      "Wick rejects UP",
+      "Overextended (72%)",
+      "Stale trend (75%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 14%) \u2014 pullback risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 1.0,
+      "trend_alignment": 0.329,
+      "momentum_quality": 0.799,
+      "candle_strength": 0.141,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.798,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.601,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -9.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 7,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +1.00",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.64)",
+      "Immediate: Bullish (+1.00)",
+      "\u2605 Elder-Ray: Bullish (+1.00)",
+      "\u2605\u2605 Elder-Ray: Bears Zero-Cross UP"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342204.7702608,
+    "direction": "DOWN",
+    "confidence": 58.3,
+    "grade": "B",
+    "prob_up": 0.03,
+    "prob_down": 0.673,
+    "prob_no_trade": 0.297,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Bearish",
+      "MTF aligned",
+      "Structure: Bearish Structure",
+      "S/R reaction",
+      "Consensus: Bearish (-0.59)",
+      "Immediate: Bearish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Wick rejects DOWN",
+      "Low signal reliability (spike_retrace: 10%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 14%) \u2014 pullback risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.211,
+      "momentum_quality": 0.526,
+      "candle_strength": 0.143,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.6,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -9.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -1.00",
+      "Structure: Bearish Structure",
+      "Candle Pressure: Bearish (-0.60)",
+      "S/R: At Resistance",
+      "Immediate: Bearish (-1.00)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342267.3830972,
+    "direction": "UP",
+    "confidence": 71.6,
+    "grade": "B",
+    "prob_up": 0.708,
+    "prob_down": 0.037,
+    "prob_no_trade": 0.255,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "Liquidity sweep (bearish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.61)",
+      "Immediate: Bullish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Stale trend (55%)",
+      "Low signal reliability (spike_retrace: 10%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 4%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-3) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.93,
+      "momentum_quality": 0.872,
+      "candle_strength": 0.041,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.672,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 0.898
+    },
+    "ml_adjustment": -7.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.97",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.41)",
+      "Pattern: Hammer (86%)",
+      "Immediate: Bullish (+0.87)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342318.8847826,
+    "direction": "UP",
+    "confidence": 56.5,
+    "grade": "B",
+    "prob_up": 0.591,
+    "prob_down": 0.055,
+    "prob_no_trade": 0.354,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bearish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.59)",
+      "Immediate: Bullish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Divergence: bearish_div",
+      "Stale trend (100%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Momentum bearish divergence \u2014 possible reversal",
+      "Last candle is indecision/doji (body 4%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-4) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 1.0,
+      "momentum_quality": 0.777,
+      "candle_strength": 0.042,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.3,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.671,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 0.816
+    },
+    "ml_adjustment": -7.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.94",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.21)",
+      "Pattern: Hammer (86%)",
+      "Immediate: Bullish (+0.78)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342370.2881582,
+    "direction": "UP",
+    "confidence": 51.4,
+    "grade": "B",
+    "prob_up": 0.589,
+    "prob_down": 0.056,
+    "prob_no_trade": 0.355,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bearish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.58)",
+      "Immediate: Bullish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Divergence: bearish_div",
+      "Stale trend (100%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Momentum bearish divergence \u2014 possible reversal",
+      "Last candle is indecision/doji (body 5%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-4) \u2014 trend continuation risk",
+      "Too many consecutive UP signals (4)"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 1.0,
+      "momentum_quality": 0.777,
+      "candle_strength": 0.05,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.3,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.665,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 0.787
+    },
+    "ml_adjustment": -7.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.93",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.20)",
+      "Pattern: Hammer (86%)",
+      "Immediate: Bullish (+0.74)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1785342602.304355,
+    "direction": "UP",
+    "confidence": 51.0,
+    "grade": "B",
+    "prob_up": 0.535,
+    "prob_down": 0.088,
+    "prob_no_trade": 0.377,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Liquidity sweep (bearish)",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "Consensus: Bullish (+0.45)",
+      "Immediate: Bullish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Divergence: bearish_div",
+      "Stale trend (100%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Momentum bearish divergence \u2014 possible reversal",
+      "Last candle is indecision/doji (body 5%) \u2014 pullback risk",
+      "Williams %R OVERBOUGHT (-5) \u2014 trend continuation risk",
+      "Too many consecutive UP signals (66)"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.35,
+      "trend_alignment": 0.896,
+      "momentum_quality": 0.777,
+      "candle_strength": 0.048,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.3,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.667,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 0.794
+    },
+    "ml_adjustment": -7.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.93",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.20)",
+      "Pattern: Hammer (86%)",
+      "Immediate: Bullish (+0.75)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789893269.5738857,
+    "direction": "DOWN",
+    "confidence": 57.6,
+    "grade": "B",
+    "prob_up": 0.052,
+    "prob_down": 0.638,
+    "prob_no_trade": 0.31,
+    "reasons": [
+      "Hammer (UP)"
+    ],
+    "entry_factors": [
+      "Strong momentum",
+      "Structure: Bearish Structure",
+      "Consensus: Bearish (-0.78)",
+      "Immediate: Bearish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Wick rejects DOWN",
+      "Overextended (91%)",
+      "Fake move likely (70%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 5%) \u2014 pullback risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.6,
+      "trend_alignment": 0.0,
+      "momentum_quality": 0.87,
+      "candle_strength": 0.05,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.665,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -9.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Momentum: -1.00",
+      "Structure: Bearish Structure",
+      "Candle Pressure: Bearish (-0.47)",
+      "Immediate: Bearish (-1.00)",
+      "\u2713 Momentum acceleration",
+      "\u2605 Elder-Ray: Bearish (-0.60)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789893528.1710067,
+    "direction": "DOWN",
+    "confidence": 60.7,
+    "grade": "B",
+    "prob_up": 0.089,
+    "prob_down": 0.496,
+    "prob_no_trade": 0.416,
+    "reasons": [
+      "Shooting Star (DOWN)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bearish",
+      "MTF aligned",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "S/R reaction",
+      "Consensus: Bearish (-0.62)",
+      "Immediate: Bearish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Overextended (70%)",
+      "Stale trend (100%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 7%) \u2014 pullback risk",
+      "Williams %R OVERSOLD (-99) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.623,
+      "momentum_quality": 0.69,
+      "candle_strength": 0.066,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.786,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.651,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -1.00",
+      "Candle Pressure: Bearish (-0.55)",
+      "Pattern: Shooting Star (83%)",
+      "S/R: At Resistance",
+      "Immediate: Bearish (-1.00)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789893587.2917557,
+    "direction": "DOWN",
+    "confidence": 66.7,
+    "grade": "B",
+    "prob_up": 0.084,
+    "prob_down": 0.505,
+    "prob_no_trade": 0.411,
+    "reasons": [
+      "Shooting Star (DOWN)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bearish",
+      "MTF aligned",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "S/R reaction",
+      "Consensus: Bearish (-0.63)",
+      "Immediate: Bearish",
+      "Confluence: 6/10 voters agree"
+    ],
+    "risk_flags": [
+      "Overextended (67%)",
+      "Stale trend (99%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 20%) \u2014 pullback risk",
+      "Williams %R OVERSOLD (-99) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.733,
+      "momentum_quality": 0.819,
+      "candle_strength": 0.204,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.763,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.55,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 6,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -1.00",
+      "Candle Pressure: Bearish (-0.66)",
+      "Pattern: Shooting Star (70%)",
+      "S/R: At Resistance",
+      "Immediate: Bearish (-1.00)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789893637.6163857,
+    "direction": "DOWN",
+    "confidence": 68.1,
+    "grade": "B",
+    "prob_up": 0.0,
+    "prob_down": 0.74,
+    "prob_no_trade": 0.26,
+    "reasons": [],
+    "entry_factors": [
+      "Trend: Strong Bearish",
+      "MTF aligned",
+      "Strong momentum",
+      "Structure: CHOCH Bearish",
+      "Consensus: Bearish (-0.62)",
+      "Immediate: Bearish",
+      "Confluence: 5/10 voters agree"
+    ],
+    "risk_flags": [
+      "Stale trend (80%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 4%) \u2014 pullback risk",
+      "Williams %R OVERSOLD (-98) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.0,
+      "trend_alignment": 0.563,
+      "momentum_quality": 0.637,
+      "candle_strength": 0.042,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.0,
+      "wick_rejection": 0.487,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.592,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -1.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 5,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -1.00",
+      "Structure: CHOCH Bearish",
+      "S/R: Bearish Breakout",
+      "Immediate: Bearish (-1.00)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789893715.4215782,
+    "direction": "UP",
+    "confidence": 82.7,
+    "grade": "A",
+    "prob_up": 0.78,
+    "prob_down": 0.0,
+    "prob_no_trade": 0.22,
+    "reasons": [
+      "Marubozu (UP)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bullish",
+      "MTF aligned",
+      "Strong momentum",
+      "Structure: Bullish Structure",
+      "S/R reaction",
+      "Consensus: Bullish (+0.34)",
+      "Immediate: Bullish",
+      "Confluence: 8/10 voters agree"
+    ],
+    "risk_flags": [
+      "Overextended (58%)",
+      "Strong bullish candle blocks DOWN"
+    ],
+    "rejection_reasons": [
+      "Williams %R OVERBOUGHT (-0) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.2,
+      "trend_alignment": 0.535,
+      "momentum_quality": 0.771,
+      "candle_strength": 0.95,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.8,
+      "volatility_quality": 0.3,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.0,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 0.332
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 8,
+    "confluence_details": [
+      "Trend: Bullish",
+      "Momentum: +0.40",
+      "Structure: Bullish Structure",
+      "Candle Pressure: Bullish (+0.52)",
+      "Pattern: Marubozu (95%)",
+      "S/R: At Support",
+      "Immediate: Bullish (+0.48)",
+      "\u2605 Elder-Ray: Bullish (+0.20)"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789894020.1780667,
+    "direction": "DOWN",
+    "confidence": 74.4,
+    "grade": "B",
+    "prob_up": 0.065,
+    "prob_down": 0.569,
+    "prob_no_trade": 0.366,
+    "reasons": [
+      "Shooting Star (DOWN)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bearish",
+      "MTF aligned",
+      "Liquidity sweep (bearish)",
+      "Structure: CHOCH Bullish",
+      "S/R reaction",
+      "Consensus: Bearish (-0.63)",
+      "Immediate: Bearish",
+      "Confluence: 8/10 voters agree"
+    ],
+    "risk_flags": [
+      "Overextended (67%)",
+      "Stale trend (70%)"
+    ],
+    "rejection_reasons": [
+      "Last candle is indecision/doji (body 7%) \u2014 pullback risk",
+      "Williams %R OVERSOLD (-100) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 0.7,
+      "trend_alignment": 0.644,
+      "momentum_quality": 0.587,
+      "candle_strength": 0.067,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.792,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.651,
+      "liquidity_sweep": 0.8,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 8,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -0.39",
+      "Candle Pressure: Bearish (-0.56)",
+      "Pattern: Shooting Star (84%)",
+      "S/R: At Resistance",
+      "Immediate: Bearish (-1.00)",
+      "\u2605 Elder-Ray: Bearish (-0.70)",
+      "\u2605\u2605 Elder-Ray: Bulls Zero-Cross DOWN"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  },
+  {
+    "timestamp": 1789894070.225651,
+    "direction": "DOWN",
+    "confidence": 73.9,
+    "grade": "B",
+    "prob_up": 0.0,
+    "prob_down": 0.595,
+    "prob_no_trade": 0.405,
+    "reasons": [
+      "Shooting Star (DOWN)"
+    ],
+    "entry_factors": [
+      "Trend: Strong Bearish",
+      "Strong momentum",
+      "Structure: CHOCH Bearish",
+      "S/R reaction",
+      "Consensus: Bearish (-0.98)",
+      "Immediate: Bearish",
+      "Confluence: 9/10 voters agree"
+    ],
+    "risk_flags": [
+      "Overextended (100%)",
+      "Stale trend (100%)"
+    ],
+    "rejection_reasons": [
+      "Extremely overextended DOWN (100%) \u2014 caution",
+      "Last candle is indecision/doji (body 20%) \u2014 pullback risk",
+      "Williams %R OVERSOLD (-100) \u2014 trend continuation risk"
+    ],
+    "factor_scores": {
+      "elder_ray": 1.0,
+      "trend_alignment": 0.709,
+      "momentum_quality": 0.756,
+      "candle_strength": 0.2,
+      "structure_confirmation": 0.8,
+      "sr_reaction": 0.9,
+      "wick_rejection": 0.773,
+      "volatility_quality": 0.8,
+      "breakout_confirmation": 0.0,
+      "exhaustion_probability": 0.554,
+      "liquidity_sweep": 0.0,
+      "immediate_pressure": 1.0
+    },
+    "ml_adjustment": -4.0,
+    "timeframe": "1m",
+    "expiry_minutes": 1,
+    "confluence_count": 9,
+    "confluence_details": [
+      "Trend: Bearish",
+      "Momentum: -1.00",
+      "Structure: CHOCH Bearish",
+      "Candle Pressure: Bearish (-0.70)",
+      "Pattern: Shooting Star (71%)",
+      "S/R: At Resistance",
+      "Immediate: Bearish (-1.00)",
+      "\u2605 Elder-Ray: Bearish (-1.00)",
+      "\u2605\u2605 Elder-Ray: Bulls Zero-Cross DOWN"
+    ],
+    "outcome": null,
+    "outcome_time": null
+  }
+]
